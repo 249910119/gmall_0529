@@ -8,13 +8,14 @@
     <artifactId>gmall_0529</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
+
         <module>gmall-bean</module>
         <module>gmall-common</module>
         <module>gmall-interface</module>
-        <module>gmall-webUtil</module>
-        <module>gmall-serviceUtil</module>
+        <module>gmall-serviceutil</module>
         <module>gmall-user-service</module>
         <module>gmall-user-web</module>
+        <module>gmall-webutil</module>
         <module>gmall-parent</module>
     </modules>
     <packaging>pom</packaging>
